@@ -15,3 +15,5 @@ Para executar o projeto:
 4 - Executar as migrations no terminal através do comando: yarn typeorm migration:run;
 
 5 - Executar yarn dev:server.
+
+
