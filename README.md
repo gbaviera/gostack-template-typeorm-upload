@@ -16,4 +16,4 @@ Para executar o projeto:
 
 5 - Executar yarn dev:server.
 
-![Alt Text](https://github.com/gbaviera/gostack-template-typeorm-upload/blob/master/run_project.gif)
+![Alt Text](https://github.com/gbaviera/gostack-template-typeorm-upload/blob/master/start_project.gif)
